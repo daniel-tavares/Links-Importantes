@@ -42,6 +42,9 @@
 - Canvas.com: criação de banner comercial
 - https://pixlr.com/editor/: Editor photoshop online
 
+#ICONES/IMAGEM
+- http://pt.fonts2u.com/premiership.fontehttp://www.vecteezy.com/vector-art/82326-hand-drawn-cupcake-vectors
+
 ##EDITORES
 
 -- **Editor para readme:** https://pandao.github.io/editor.md/en.html
