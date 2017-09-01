@@ -5,6 +5,7 @@
 - http://yeoman.io/generators/
 - http://docs.oracle.com/javase/8/docs/api/
 - http://docs.oracle.com/javase/7/docs/api/
+- http://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
 
 
 ##DESENVOLVIMENTO FRONTEND
