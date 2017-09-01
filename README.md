@@ -3,7 +3,8 @@
 
 - https://forge.jboss.org/download: criar projetos java
 - http://yeoman.io/generators/
-- 
+- http://docs.oracle.com/javase/8/docs/api/
+- http://docs.oracle.com/javase/7/docs/api/
 
 
 ##DESENVOLVIMENTO FRONTEND
