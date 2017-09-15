@@ -1,5 +1,5 @@
 
-##DESENVOLVIMENTO BACKEND
+## DESENVOLVIMENTO BACKEND
 
 - https://forge.jboss.org/download: criar projetos java
 - http://yeoman.io/generators/
@@ -8,7 +8,7 @@
 - http://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
 
 
-##DESENVOLVIMENTO FRONTEND
+## DESENVOLVIMENTO FRONTEND
 
 - http://bootsnipp.com/forms : utilizado para criação de forms em bootstrap
 - https://www.boottheme.com/: criação de temas bootstrap
@@ -32,7 +32,7 @@
 - http://www.vectorilla.com
 
 
-##HOSPEDAGEM
+## HOSPEDAGEM
 
 - https://www.hostinger.com.br: hospedagem gratis
 - http://hospedagem.org/
@@ -40,16 +40,16 @@
 - https://www.hostnet.com.br/
 - 
 
-##DOMINIOS
+## DOMINIOS
 
 - http://registro.br/
 
-##PLUGINS WORDPRESS
+## PLUGINS WORDPRESS
 
 - jatpack: realiza analise de trafego
 - Yoast SEO: breadcrumbs
 
-##LENCURTADORES DE URL
+## LENCURTADORES DE URL
 
 - goo.gl
 - bit.ly
@@ -58,10 +58,10 @@
 - Canvas.com: criação de banner comercial
 - https://pixlr.com/editor/: Editor photoshop online
 
-#ICONES/IMAGEM
+## ICONES/IMAGEM
 - http://pt.fonts2u.com/premiership.fontehttp://www.vecteezy.com/vector-art/82326-hand-drawn-cupcake-vectors
 
-##EDITORES
+## EDITORES
 
 -- **Editor para readme:** https://pandao.github.io/editor.md/en.html
 
