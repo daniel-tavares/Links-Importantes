@@ -18,6 +18,20 @@
 - http://www.flatuicolorpicker.com/ : paleta de cores
 - https://market.envato.com/:plugins wordpress
 
+## DESIGNER
+- http://alienvalley.com/premium/
+- https://www.canva.com/pt_br/
+- http://dunnnk.com/
+- http://graphicburger.com/
+- http://www.freepik.com
+- http://www.graphicsfuel.com
+- https://www.pixeden.com
+- https://pixelbuddha.net
+- https://placeit.net
+- https://www.sketchappsources.com
+- http://www.vectorilla.com
+
+
 ##HOSPEDAGEM
 
 - https://www.hostinger.com.br: hospedagem gratis
