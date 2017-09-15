@@ -49,12 +49,12 @@
 - jatpack: realiza analise de trafego
 - Yoast SEO: breadcrumbs
 
-## LENCURTADORES DE URL
+## ENCURTADORES DE URL
 
 - goo.gl
 - bit.ly
 
--- EDITORES DE IMAGEM
+## EDITORES DE IMAGEM
 - Canvas.com: criação de banner comercial
 - https://pixlr.com/editor/: Editor photoshop online
 
