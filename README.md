@@ -30,6 +30,7 @@
 - https://placeit.net
 - https://www.sketchappsources.com
 - http://www.vectorilla.com
+- https://www.shutterstock.com
 
 ##MARKENTING
 - https://www.powtoon.com
