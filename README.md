@@ -6,6 +6,7 @@
 - http://docs.oracle.com/javase/8/docs/api/
 - http://docs.oracle.com/javase/7/docs/api/
 - http://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
+- https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#common-application-properties
 
 
 ## DESENVOLVIMENTO FRONTEND
@@ -38,7 +39,7 @@
 - http://www.vectorilla.com
 - https://www.shutterstock.com
 
-##MARKENTING
+## MARKENTING
 - https://www.powtoon.com
 - 
 
