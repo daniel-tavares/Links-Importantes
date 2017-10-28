@@ -18,6 +18,12 @@
 - http://www.flatuicolorpicker.com/ : paleta de cores
 - https://market.envato.com/:plugins wordpress
 
+
+## INTEGRACAO CONTINUA
+- https://jenkins.io/
+- https://travis-ci.org/
+- https://app.codeship.com
+
 ## DESIGNER
 - http://alienvalley.com/premium/
 - https://www.canva.com/pt_br/
