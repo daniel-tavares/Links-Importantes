@@ -8,6 +8,7 @@
 - http://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
 - https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#common-application-properties
 
+-https://github.com/uaihebert/uaicriteria
 
 ## DESENVOLVIMENTO FRONTEND
 
