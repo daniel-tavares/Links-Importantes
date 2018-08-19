@@ -19,6 +19,8 @@
 - https://flatuicolors.com/ : paleta de cores
 - http://www.flatuicolorpicker.com/ : paleta de cores
 - https://market.envato.com/:plugins wordpress
+- https://developer.mozilla.org/pt-BR/docs/Web/HTML
+- https://www.w3schools.com/html/default.asp
 
 
 ## INTEGRACAO CONTINUA
